@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: titulo;
+    src: url(fontes/WorkSans-Black.ttf);
+}
+
+@font-face {
+    font-family: paragrafo;
+    src: url(fontes/._Vercetti-Regular.ttf;)
+}
+
+h1 {
+    font-family: "titulo";
+}
+
+p {
+    font-family: "paragrafo";
+}
+/* CORES
+#053B06
+#51A45D
+#31ED34
+#EEECD2
+#EEECD2
+*/
+
