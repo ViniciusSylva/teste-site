@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: titulo;
-    src: url(fontes/WorkSans-Black.ttf);
+    src: url(fontes/WorkSans-Bold.ttf);
 }
 
 @font-face {
     font-family: paragrafo;
-    src: url(fontes/._Vercetti-Regular.ttf;)
+    src: url()
 }
 
 h1 {
